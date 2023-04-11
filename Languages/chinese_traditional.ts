@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>Overclocking feature is not supported by the processor. Hence only current view is visible and you will not be able to switch to other profiles.</source>
-        <translation>處理器不支援超頻功能。 因此，只有當前視圖是可見的，您將不能切換到其他設定檔。</translation>
+        <translation>處理器不支援超頻功能。 因此，只有目前視圖是可見的，您將不能切換到其他設定檔。</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -28,11 +28,11 @@
     </message>
     <message>
         <source>    AMD processors, including chipsets, CPUs, APUs and GPUs (collectively and individually “AMD processor”), are intended to be operated only within their associated specifications and factory settings. Operating your AMD processor outside of official AMD specifications or outside of factory settings, including but not limited to the conducting of overclocking (including use of this overclocking software, even if such software has been directly or indirectly provided by AMD or an entity otherwise affiliated in any way with AMD), may damage your processor, affect the operation of your processor or the security features therein and/or lead to other problems, including but not limited to damage to your system components (including your motherboard and components thereon (e.g., memory)), system instabilities (e.g., data loss and corrupted images), reduction in system performance, shortened processor, system component and/or system life, and in extreme cases, total system failure. It is recommended that you save any important data before using the tool.  AMD does not provide support or service for issues or damages related to use of an AMD processor outside of official AMD specifications or outside of factory settings. You may also not receive support or service from your board or system manufacturer. Please make sure you have saved all important data before using this overclocking software</source>
-        <translation>    AMD 處理器（包括晶片組、CPU、APU 和 GPU，統稱和單獨稱為“AMD 處理器”）僅適用於在其相關規格和出廠設置下運作。 違反 AMD 官方規格或出廠設置操作您的 AMD 處理器，包括但不限於採用超頻技術（包括使用本超頻軟體，即使該軟體直接或間接由 AMD 或 AMD 關聯實體提供），可能會損壞您的處理器，影響您的處理器或其中安全特性的運作，並且/或者導致其它問題，包括但不限於您的系統部件受損（包括主板及其部件（例如視訊記憶體））、系統不穩定（例如資料遺失和圖像受損）、系統性能下降、處理器/系統部件和/或系統壽命縮短，在極端情況下，甚至導致整個系統發生故障。 建議在使用本工具之前先保存所有重要資料。因違反 AMD 官方規格或出廠設置使用 AMD 處理器而導致問題或損壞，AMD 將不提供支援或服務。 您也可能無法獲得主板或系統製造商的支援或服務。 請在使用此超頻軟體前，確保已保存所有重要的資料</translation>
+        <translation>    AMD 處理器（包括晶片組、CPU、APU 和 GPU，統稱和單獨稱為“AMD 處理器”）僅適用於在其相關規格和出廠設定下運作。 違反 AMD 官方規格或出廠設定操作您的 AMD 處理器，包括但不限於採用超頻技術（包括使用本超頻軟體，即使該軟體直接或間接由 AMD 或 AMD 關聯實體提供），可能會損壞您的處理器，影響您的處理器或其中安全特性的運作，並且/或者導致其它問題，包括但不限於您的系統部件受損（包括主板及其部件（例如視訊記憶體））、系統不穩定（例如資料遺失和圖像受損）、系統性能下降、處理器/系統部件和/或系統壽命縮短，在極端情況下，甚至導致整個系統發生故障。 建議在使用本工具之前先保存所有重要資料。因違反 AMD 官方規格或出廠設定使用 AMD 處理器而導致問題或損壞，AMD 將不提供支援或服務。 您也可能無法獲得主板或系統製造商的支援或服務。 請在使用此超頻軟體前，確保已保存所有重要的資料</translation>
     </message>
     <message>
         <source>    DAMAGES CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF OFFICIAL AMD SPECIFICATIONS OR OUTSIDE OF FACTORY SETTINGS ARE NOT COVERED UNDER ANY AMD PRODUCT WARRANTY AND MAY NOT BE COVERED BY YOUR BOARD OR SYSTEM MANUFACTURER’S WARRANTY.</source>
-        <translation>    違反 AMD 官方規格或出廠設置使用您的 AMD 處理器而導致的損壞不屬於任何 AMD 產品的保固範圍，也不屬於主板或系統製造商的保固範圍。</translation>
+        <translation>    違反 AMD 官方規格或出廠設定使用您的 AMD 處理器而導致的損壞不屬於任何 AMD 產品的保固範圍，也不屬於主板或系統製造商的保固範圍。</translation>
     </message>
     <message>
         <source>Are you facing multiple loop restart or system hang after clicking OK button ?</source>
@@ -44,11 +44,11 @@
     </message>
     <message>
         <source>Overclocking feature is disabled in BIOS. Hence only current view is visible and you will not be able to switch to other profiles.</source>
-        <translation>BIOS 中已禁用超頻功能。 因此只有當前視圖可見，您不能切換到其它設定檔。</translation>
+        <translation>BIOS 中已禁用超頻功能。 因此只有目前視圖可見，您不能切換到其它設定檔。</translation>
     </message>
     <message>
         <source>Click on this button and Ryzen Master will be loaded without applying unstable profile values.</source>
-        <translation>點擊此按鈕，將載入 Ryzen Master，無需應用不穩定的設定檔值。</translation>
+        <translation>點擊此按鈕，將載入 Ryzen Master，無需套用不穩定的設定檔值。</translation>
     </message>
 </context>
 <context>
@@ -63,15 +63,15 @@
     </message>
     <message>
         <source>Eco-Mode sets the processor to operate in a lower-power condition</source>
-        <translation>節能模式將處理器設置為在低功耗條件下運作</translation>
+        <translation>節能模式將處理器設定為在低功耗條件下運作</translation>
     </message>
     <message>
         <source>You set the CPU core clock frequency and CPU core voltage to overclock the processor</source>
-        <translation>設置 CPU 核心時鐘頻率和 CPU 核心電壓以超頻處理器</translation>
+        <translation>設定 CPU 核心時脈頻率和 CPU 核心電壓以超頻處理器</translation>
     </message>
     <message>
         <source>Runs the processor at stock settings</source>
-        <translation>在原廠預設值設置下運作處理器</translation>
+        <translation>在原廠設定值設定下運作處理器</translation>
     </message>
 </context>
 <context>
@@ -178,7 +178,7 @@
     </message>
     <message>
         <source>Core parking is not available with the current BIOS. </source>
-        <translation>當前 BIOS 不支援核心停擺。</translation>
+        <translation>目前 BIOS 不支援核心停擺。</translation>
     </message>
     <message>
         <source>Step size: </source>
@@ -194,7 +194,7 @@
     </message>
     <message>
         <source>Set Active CCD Mode </source>
-        <translation>設置主動式 CCD 模式 </translation>
+        <translation>設定主動式 CCD 模式 </translation>
     </message>
     <message>
         <source>Partial cores can not be enabled, all cores needs to be enabled</source>
@@ -271,15 +271,15 @@
     </message>
     <message>
         <source>Turn on Local, it can improve the performance of games</source>
-        <translation>打開“本地”設置，其可以提高遊戲的性能</translation>
+        <translation>打開“本地”設定，其可以提高遊戲的性能</translation>
     </message>
     <message>
         <source>Legacy Compatibility Mode may improve the performance of older games and applications</source>
-        <translation>舊程序相容模式可以提高舊的遊戲和應用程式的性能</translation>
+        <translation>舊程序相容模式可以提高舊的遊戲和套用程式的性能</translation>
     </message>
     <message>
         <source>Turn on Distributed, it can improve the performance of creative applications</source>
-        <translation>打開“分布式”設置，其可以提高創意設計應用程式的性能</translation>
+        <translation>打開“分布式”設定，其可以提高創意設計套用程式的性能</translation>
     </message>
     <message>
         <source>Turn On</source>
@@ -509,7 +509,7 @@
     </message>
     <message>
         <source> clock cycles</source>
-        <translation> 時鐘週期</translation>
+        <translation> 時脈週期</translation>
     </message>
     <message>
         <source> Ohms</source>
@@ -541,7 +541,7 @@
     </message>
     <message>
         <source> bus clocks</source>
-        <translation> 匯流排時鐘頻率</translation>
+        <translation> 匯流排時脈頻率</translation>
     </message>
     <message>
         <source>Temperature, Speed, Power &amp; Current</source>
@@ -640,7 +640,7 @@
     </message>
     <message>
         <source> clock cycles</source>
-        <translation> 時鐘週期</translation>
+        <translation> 時脈週期</translation>
     </message>
     <message>
         <source> Ohms</source>
@@ -680,7 +680,7 @@
     </message>
     <message>
         <source> bus clocks</source>
-        <translation> 匯流排時鐘頻率</translation>
+        <translation> 匯流排時脈頻率</translation>
     </message>
     <message>
         <source>Temperature, Speed, Power &amp; Current</source>
@@ -735,7 +735,7 @@
     </message>
     <message>
         <source> clock cycles</source>
-        <translation> 時鐘週期</translation>
+        <translation> 時脈週期</translation>
     </message>
     <message>
         <source> Ohms</source>
@@ -767,7 +767,7 @@
     </message>
     <message>
         <source>Memory clock can not be modified when EXPO Mode is ON</source>
-        <translation>EXPO 模式開啟時無法修改記憶體時鐘頻率</translation>
+        <translation>EXPO 模式開啟時無法修改記憶體時脈頻率</translation>
     </message>
     <message>
         <source> (non-coupled mode) may cause memory stability issues. Recommended for advanced users only.</source>
@@ -775,7 +775,7 @@
     </message>
     <message>
         <source>Click &quot;Activate&quot; to Activate EXPO Profile</source>
-        <translation>單擊“啟用”以啟用 EXPO 設定檔</translation>
+        <translation>點選“啟用”以啟用 EXPO 設定檔</translation>
     </message>
     <message>
         <source>NOTE: Uncoupled mode will induces some added latency</source>
@@ -787,7 +787,7 @@
     </message>
     <message>
         <source> are automatically set to </source>
-        <translation> 自動設置為 </translation>
+        <translation> 自動設定為 </translation>
     </message>
     <message>
         <source>Load EXPO Profile</source>
@@ -823,7 +823,7 @@
     </message>
     <message>
         <source> bus clocks</source>
-        <translation> 匯流排時鐘頻率</translation>
+        <translation> 匯流排時脈頻率</translation>
     </message>
     <message>
         <source> value not same as that of </source>
@@ -835,7 +835,7 @@
     </message>
     <message>
         <source>NOTE: Setting </source>
-        <translation>注意：設置</translation>
+        <translation>注意：設定</translation>
     </message>
     <message>
         <source> is beyond the limit of </source>
@@ -851,7 +851,7 @@
     </message>
     <message>
         <source>Voltage applies for both graphics and memory</source>
-        <translation>電壓應用於顯示卡和視訊記憶體</translation>
+        <translation>電壓套用於顯示卡和視訊記憶體</translation>
     </message>
     <message>
         <source>Activate</source>
@@ -863,7 +863,7 @@
     </message>
     <message>
         <source> can be set independently</source>
-        <translation> 可單獨設置</translation>
+        <translation> 可單獨設定</translation>
     </message>
     <message>
         <source>In Uncoupled mode </source>
@@ -883,7 +883,7 @@
     </message>
     <message>
         <source>Click on &quot;Apply&quot; to enable Activate button (for dynamically applying EXPO profile)</source>
-        <translation>單擊“應用”以啟用按鈕（用於動態應用 EXPO 設定檔</translation>
+        <translation>點選“套用”以啟用按鈕（用於動態套用 EXPO 設定檔</translation>
     </message>
     <message>
         <source>Infinity </source>
@@ -957,7 +957,7 @@
     </message>
     <message>
         <source> clock cycles</source>
-        <translation> 時鐘週期</translation>
+        <translation> 時脈週期</translation>
     </message>
     <message>
         <source> MT/s</source>
@@ -993,7 +993,7 @@
     </message>
     <message>
         <source>Current processor temperature (°C)</source>
-        <translation>當前處理器溫度 (°C)</translation>
+        <translation>目前處理器溫度 (°C)</translation>
     </message>
     <message>
         <source>VDDCR SOC</source>
@@ -1001,15 +1001,15 @@
     </message>
     <message>
         <source>Current Curve Optimizer mode the processor is operating in</source>
-        <translation>處理器的當前曲線最佳化器模式為</translation>
+        <translation>處理器的目前曲線最佳化器模式為</translation>
     </message>
     <message>
         <source>Current mode the processor is operating in</source>
-        <translation>處理器當前運作的模式</translation>
+        <translation>處理器目前運作的模式</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation>當前</translation>
+        <translation>目前</translation>
     </message>
     <message>
         <source>Temperature</source>
@@ -1079,7 +1079,7 @@
     </message>
     <message>
         <source>Showing derived offset values</source>
-        <translation>顯示導出的偏移值</translation>
+        <translation>顯示匯出的偏移值</translation>
     </message>
     <message>
         <source>Showing Windows preferred cores</source>
@@ -1087,7 +1087,7 @@
     </message>
     <message>
         <source>Allows user to set offset values</source>
-        <translation>允許用戶設置偏移值</translation>
+        <translation>允許用戶設定偏移值</translation>
     </message>
     <message>
         <source>Push All Manual</source>
@@ -1126,11 +1126,11 @@
     </message>
     <message>
         <source>Memory Clock Unit</source>
-        <translation>​記憶體時鐘單元</translation>
+        <translation>​記憶體時脈單元</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>應用</translation>
+        <translation>套用</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
@@ -1138,7 +1138,7 @@
     </message>
     <message>
         <source>Settings Saved Successfully</source>
-        <translation>設置已成功保存</translation>
+        <translation>設定已成功保存</translation>
     </message>
     <message>
         <source>Allow AMD to collect your usage information in order to help us improve our products and services.</source>
@@ -1166,7 +1166,7 @@
     </message>
     <message>
         <source> requires System Restart with current control mode</source>
-        <translation> 需要使用當前的控制模式重新啟動系統</translation>
+        <translation> 需要使用目前的控制模式重新啟動系統</translation>
     </message>
     <message>
         <source>Test Duration</source>
@@ -1214,7 +1214,7 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation>設置</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>Show/Hide warning message in case user has not modified Speed and Voltage values while engaging Manual Mode (first time in every session)</source>
@@ -1222,11 +1222,11 @@
     </message>
     <message>
         <source>Nothing To Apply</source>
-        <translation>無可應用設定</translation>
+        <translation>無可套用設定</translation>
     </message>
     <message>
         <source>Application</source>
-        <translation>應用程式</translation>
+        <translation>套用程式</translation>
     </message>
 </context>
 <context>
@@ -1265,7 +1265,7 @@
     </message>
     <message>
         <source>Dont show this warning for setting core voltage and frequency again</source>
-        <translation>不再顯示設置核心電壓和頻率的此警告</translation>
+        <translation>不再顯示設定核心電壓和頻率的此警告</translation>
     </message>
     <message>
         <source>Start a command prompt as an administrator.</source>
@@ -1339,11 +1339,11 @@
     </message>
     <message>
         <source>Memory Clock Unit</source>
-        <translation>​記憶體時鐘單元</translation>
+        <translation>​記憶體時脈單元</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>應用</translation>
+        <translation>套用</translation>
     </message>
     <message>
         <source>Restore Defaults</source>
@@ -1355,7 +1355,7 @@
     </message>
     <message>
         <source>Settings Saved Successfully</source>
-        <translation>設置已成功保存</translation>
+        <translation>設定已成功保存</translation>
     </message>
     <message>
         <source>This will reset the DashBoard and Minimized DashBoard preferences to &apos;Default&apos; state.</source>
@@ -1379,7 +1379,7 @@
     </message>
     <message>
         <source>Settings Saved Successfully, Error in saving Auto Update Interval</source>
-        <translation>設置保存成功，保存自動更新間隔期間出現錯誤</translation>
+        <translation>設定保存成功，保存自動更新間隔期間出現錯誤</translation>
     </message>
     <message>
         <source> control mode</source>
@@ -1395,7 +1395,7 @@
     </message>
     <message>
         <source>Click to Reset</source>
-        <translation>單擊以重設</translation>
+        <translation>點選以重設</translation>
     </message>
     <message>
         <source>Enable Minimize DashBoard</source>
@@ -1411,7 +1411,7 @@
     </message>
     <message>
         <source>Click to Disable</source>
-        <translation>單擊以禁用</translation>
+        <translation>點選以禁用</translation>
     </message>
     <message>
         <source>This will initiate background process to check for any Ryzen Master updates available.</source>
@@ -1435,7 +1435,7 @@
     </message>
     <message>
         <source> requires System Restart with current control mode</source>
-        <translation> 需要使用當前的控制模式重新啟動系統</translation>
+        <translation> 需要使用目前的控制模式重新啟動系統</translation>
     </message>
     <message>
         <source>RM Animations</source>
@@ -1527,7 +1527,7 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation>設置</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>User Experience Program</source>
@@ -1543,7 +1543,7 @@
     </message>
     <message>
         <source>Nothing To Apply</source>
-        <translation>無可應用設定</translation>
+        <translation>無可套用設定</translation>
     </message>
     <message>
         <source>This mode is typically used only with extreme cooling solutions for extreme overclocking experiments. Use with caution.</source>
@@ -1555,7 +1555,7 @@
     </message>
     <message>
         <source>Application</source>
-        <translation>應用程式</translation>
+        <translation>套用程式</translation>
     </message>
 </context>
 <context>
@@ -1570,11 +1570,11 @@
     </message>
     <message>
         <source>Eco-Mode sets the processor to operate in a lower-power condition</source>
-        <translation>節能模式將處理器設置為在低功耗條件下運作</translation>
+        <translation>節能模式將處理器設定為在低功耗條件下運作</translation>
     </message>
     <message>
         <source>Sets a maximum boost frequency higher than the stock frequency</source>
-        <translation>設置高於預設設置頻率的最大超頻頻率</translation>
+        <translation>設定高於預設設定頻率的最大超頻頻率</translation>
     </message>
     <message>
         <source>Manual Mode</source>
@@ -1621,7 +1621,7 @@
     </message>
     <message>
         <source>Profile imported is automatically saved but not applied.</source>
-        <translation>導入的設定檔會自動保存，但不會被應用。</translation>
+        <translation>匯入的設定檔會自動保存，但不會被套用。</translation>
     </message>
     <message>
         <source> [PBO]</source>
@@ -1641,7 +1641,7 @@
     </message>
     <message>
         <source>Import / Export</source>
-        <translation>導入/導出</translation>
+        <translation>匯入/匯出</translation>
     </message>
     <message>
         <source>Cores Section</source>
@@ -1649,7 +1649,7 @@
     </message>
     <message>
         <source>Import Profile</source>
-        <translation>導入設定檔</translation>
+        <translation>匯入設定檔</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1661,15 +1661,15 @@
     </message>
     <message>
         <source>Export</source>
-        <translation>導出</translation>
+        <translation>匯出</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>導入</translation>
+        <translation>匯入</translation>
     </message>
     <message>
         <source>Profile exported will be saved profile. Any unsaved changes will not be considered for export.</source>
-        <translation>導出的設定檔將為保存的設定檔導出不會考慮任何未保存的更改。</translation>
+        <translation>匯出的設定檔將為保存的設定檔匯出不會考慮任何未保存的更改。</translation>
     </message>
     <message>
         <source>CAD Bus Drive Strength</source>
@@ -1681,11 +1681,11 @@
     </message>
     <message>
         <source>export</source>
-        <translation>導出</translation>
+        <translation>匯出</translation>
     </message>
     <message>
         <source>import</source>
-        <translation>導入</translation>
+        <translation>匯入</translation>
     </message>
     <message>
         <source>Profile Info</source>
@@ -1701,7 +1701,7 @@
     </message>
     <message>
         <source>Export Profile</source>
-        <translation>導出設定檔</translation>
+        <translation>匯出設定檔</translation>
     </message>
     <message>
         <source>Data Bus Configuration User Controls</source>
@@ -1717,7 +1717,7 @@
     </message>
     <message>
         <source>RM profile file successfully imported to profile</source>
-        <translation>RM 設定檔成功導入到設定檔</translation>
+        <translation>RM 設定檔成功匯入到設定檔</translation>
     </message>
     <message>
         <source>Additional information to be added to file</source>
@@ -1769,11 +1769,11 @@
     </message>
     <message>
         <source>Stroked/Disabled (if any) components are not available to import due to compatibility issue or data corruption.</source>
-        <translation>由於相容性問題或資料損壞，沒有可導入的刪除/禁用的（如果有）組件。</translation>
+        <translation>由於相容性問題或資料損壞，沒有可匯入的刪除/禁用的（如果有）組件。</translation>
     </message>
     <message>
         <source>Profile successfully exported to RM profile file</source>
-        <translation>設定檔成功導出到 RM 設定檔</translation>
+        <translation>設定檔成功匯出到 RM 設定檔</translation>
     </message>
     <message>
         <source>Memory Clock</source>
@@ -1824,11 +1824,11 @@
     </message>
     <message>
         <source>Current core speed</source>
-        <translation>當前核心頻率</translation>
+        <translation>目前核心頻率</translation>
     </message>
     <message>
         <source>Current</source>
-        <translation>當前</translation>
+        <translation>目前</translation>
     </message>
     <message>
         <source>Clear log</source>
@@ -1951,7 +1951,7 @@
     </message>
     <message>
         <source>The clock at which the I/O hub controller communicates with the processor</source>
-        <translation>I/O 控制中心以這一時鐘和處理器通信</translation>
+        <translation>I/O 控制中心以這一時脈和處理器通信</translation>
     </message>
     <message>
         <source>CKE minimum high and low pulse width</source>
@@ -1963,7 +1963,7 @@
     </message>
     <message>
         <source>I/O Clock</source>
-        <translation>I/O&#xa0;​時鐘</translation>
+        <translation>I/O&#xa0;​時脈</translation>
     </message>
     <message>
         <source>DRAM Termination RTT_NOM</source>
@@ -1975,7 +1975,7 @@
     </message>
     <message>
         <source>Fabric Clock</source>
-        <translation>Fabric 時鐘</translation>
+        <translation>Fabric 時脈</translation>
     </message>
     <message>
         <source>MEM VPP</source>
@@ -2011,7 +2011,7 @@
     </message>
     <message>
         <source>Lower value in ohms will configure processor to drive stronger signal on Memory Clock pins</source>
-        <translation>較低的歐姆值會將處理器設定為在視訊記憶體時鐘針腳上生成更強的信號</translation>
+        <translation>較低的歐姆值會將處理器設定為在視訊記憶體時脈針腳上生成更強的信號</translation>
     </message>
     <message>
         <source>Write to Write timing same chip select same bank group</source>
@@ -2039,7 +2039,7 @@
     </message>
     <message>
         <source>CKE Setup Timing Settings</source>
-        <translation>CKE 設置時序設置</translation>
+        <translation>CKE 設定時序設定</translation>
     </message>
     <message>
         <source>Minimum Write to Read Time, different bank group</source>
@@ -2071,7 +2071,7 @@
     </message>
     <message>
         <source>Sets a maximum boost frequency higher than the stock frequency.</source>
-        <translation>設置高於預設設置頻率的最大超頻頻率。</translation>
+        <translation>設定高於預設設定頻率的最大超頻頻率。</translation>
     </message>
     <message>
         <source>DRAM Termination RTT_Wr</source>
@@ -2099,7 +2099,7 @@
     </message>
     <message>
         <source>The 2T Timing feature provides one additional MEMCLK of setup time on all DDR DRAM Address and Command signals(not including CS, CKE, and ODT). Important: The memory controller doesn&apos;t support 2T mode and Gear Down enabled together</source>
-        <translation>2T 時序功能在所有 DDR DRAM 地址和命令信號（不包括 CS、CKE 和 ODT）上提供一個額外的 MEMCLK 設置時間。重要：儲存器控制器不支援同時啟用 2T 模式和 Gear Down</translation>
+        <translation>2T 時序功能在所有 DDR DRAM 地址和命令信號（不包括 CS、CKE 和 ODT）上提供一個額外的 MEMCLK 設定時間。重要：儲存器控制器不支援同時啟用 2T 模式和 Gear Down</translation>
     </message>
     <message>
         <source>Row Cycle Time</source>
@@ -2223,11 +2223,11 @@
     </message>
     <message>
         <source>CS/ODT Setup Timing Settings</source>
-        <translation>CS/ODT 設置時序設置</translation>
+        <translation>CS/ODT 設定時序設定</translation>
     </message>
     <message>
         <source>U Clock</source>
-        <translation>U 時鐘</translation>
+        <translation>U 時脈</translation>
     </message>
     <message>
         <source>Read Row-Column Delay</source>
@@ -2239,7 +2239,7 @@
     </message>
     <message>
         <source>Core Speed</source>
-        <translation>時鐘頻率</translation>
+        <translation>時脈頻率</translation>
     </message>
     <message>
         <source>Legacy Compatibility Mode</source>
@@ -2351,7 +2351,7 @@
     </message>
     <message>
         <source>The Gear Down mode Timing feature provides one additional MEMCLK of setup time on all DDR DRAM Address and Command signals.  Important: The memory controller doesn&apos;t support 2T mode and Gear Down enabled together.</source>
-        <translation>Gear Down 模式時序功能在所有 DDR DRAM 地址和命令信號上提供一個額外的 MEMCLK 設置時間。重要：儲存器控制器不支援同時啟用 2T 模式和 Gear Down.</translation>
+        <translation>Gear Down 模式時序功能在所有 DDR DRAM 地址和命令信號上提供一個額外的 MEMCLK 設定時間。重要：儲存器控制器不支援同時啟用 2T 模式和 Gear Down.</translation>
     </message>
     <message>
         <source>Trcpage</source>
@@ -2383,7 +2383,7 @@
     </message>
     <message>
         <source>U Clock mode ON will push U Clock = Memory Clock ; OFF implies U Clock = Memory Clock / 2</source>
-        <translation>U 時鐘模式開啟 (ON) 會導致 U 時鐘頻率 = 記憶體時鐘頻率；OFF 表示 U 時鐘頻率 = 記憶體時鐘頻率 / 2</translation>
+        <translation>U 時脈模式開啟 (ON) 會導致 U 時脈頻率 = 記憶體時脈頻率；OFF 表示 U 時脈頻率 = 記憶體時脈頻率 / 2</translation>
     </message>
     <message>
         <source>Write to Write timing different DIMM</source>
@@ -2415,7 +2415,7 @@
     </message>
     <message>
         <source>APU GFX Clock</source>
-        <translation>APU GFX 時鐘</translation>
+        <translation>APU GFX 時脈</translation>
     </message>
     <message>
         <source>APU GFX Voltage</source>
@@ -2435,11 +2435,11 @@
     </message>
     <message>
         <source>Infinity Fabric Clock</source>
-        <translation>Infinity Fabric 時鐘</translation>
+        <translation>Infinity Fabric 時脈</translation>
     </message>
     <message>
         <source>U Clock Mode</source>
-        <translation>U 時鐘模式</translation>
+        <translation>U 時脈模式</translation>
     </message>
     <message>
         <source>DRAMs On-die Termination impedance for RTT_NOM_RD</source>
@@ -2507,7 +2507,7 @@
     </message>
     <message>
         <source>Add/Cmd Setup Timing Settings</source>
-        <translation>新增/Cmd 設置時序設置</translation>
+        <translation>新增/Cmd 設定時序設定</translation>
     </message>
     <message>
         <source>APU GFX Control</source>
@@ -2546,7 +2546,7 @@
     </message>
     <message>
         <source>APU GFX Clock Speed</source>
-        <translation>APU GFX 時鐘速度</translation>
+        <translation>APU GFX 時脈速度</translation>
     </message>
     <message>
         <source>EXPO Profile</source>
@@ -2554,7 +2554,7 @@
     </message>
     <message>
         <source>Sets a maximum boost frequency higher than the stock frequency.</source>
-        <translation>設置高於預設設置頻率的最大超頻頻率。</translation>
+        <translation>設定高於預設設定頻率的最大超頻頻率。</translation>
     </message>
     <message>
         <source>Manual</source>
@@ -2562,7 +2562,7 @@
     </message>
     <message>
         <source>APU Graphics Clock Speed(MHz)</source>
-        <translation>APU 顯示卡時鐘速度&#xa0;(MHz)</translation>
+        <translation>APU 顯示卡時脈速度&#xa0;(MHz)</translation>
     </message>
     <message>
         <source>Test Duration</source>
@@ -2582,7 +2582,7 @@
     </message>
     <message>
         <source>CPU Clock Speed</source>
-        <translation>CPU 時鐘頻率</translation>
+        <translation>CPU 時脈頻率</translation>
     </message>
     <message>
         <source>Eco-Mode</source>
@@ -2602,7 +2602,7 @@
     </message>
     <message>
         <source>CPU Clock Speed (MHz)</source>
-        <translation>CPU 時鐘頻率 (MHz)</translation>
+        <translation>CPU 時脈頻率 (MHz)</translation>
     </message>
     <message>
         <source>Advanced Mode</source>
@@ -2641,7 +2641,7 @@
     </message>
     <message>
         <source>clock cycles</source>
-        <translation> 時鐘週期</translation>
+        <translation> 時脈週期</translation>
     </message>
     <message>
         <source>Control Mode</source>
@@ -2671,7 +2671,7 @@
     <message>
         <source>NOTE: Memory parameters will be reset to stock.
 </source>
-        <translation>注意：記憶體參數將重設為原廠預設值。 </translation>
+        <translation>注意：記憶體參數將重設為原廠設定值。 </translation>
     </message>
     <message>
         <source>EXPO 1</source>
@@ -2703,7 +2703,7 @@
     </message>
     <message>
         <source>Reset all memory parameters to stock</source>
-        <translation>將所有記憶體參數重設為原廠預設值</translation>
+        <translation>將所有記憶體參數重設為原廠設定值</translation>
     </message>
 </context>
 <context>
@@ -2774,11 +2774,11 @@
     </message>
     <message>
         <source>Click OK to enable overclocking. The configuration requested requires Ryzen Master to Restart Windows, post restart please re-open Ryzen Master</source>
-        <translation>單擊“確定”以啟用超頻。 請求的設定需要&#xa0;Ryzen&#xa0;Master 重啟&#xa0;Windows，重啟後請重新打開&#xa0;Ryzen Master</translation>
+        <translation>點選“確定”以啟用超頻。 請求的設定需要&#xa0;Ryzen&#xa0;Master 重啟&#xa0;Windows，重啟後請重新打開&#xa0;Ryzen Master</translation>
     </message>
     <message>
         <source>Ryzen Master does not support current processor.</source>
-        <translation>Ryzen Master 不支援當前處理器。</translation>
+        <translation>Ryzen Master 不支援目前處理器。</translation>
     </message>
     <message>
         <source>Ryzen Master unable to initialize. Kindly reinstall the program.</source>
@@ -2786,15 +2786,15 @@
     </message>
     <message>
         <source>Click Cancel to close</source>
-        <translation>單擊“取消”關閉</translation>
+        <translation>點選“取消”關閉</translation>
     </message>
     <message>
         <source>Core parking is not available for the current version of BIOS.</source>
-        <translation>當前的 BIOS 版本不支援核心停擺。</translation>
+        <translation>目前的 BIOS 版本不支援核心停擺。</translation>
     </message>
     <message>
         <source>Note : Use of AMD products outside of the Specifications or outside of factory settings will void any AMD warranty.</source>
-        <translation>注意：不按照說明書或出廠設置使用&#xa0;AMD 產品將使&#xa0;AMD 保固失效。</translation>
+        <translation>注意：不按照說明書或出廠設定使用&#xa0;AMD 產品將使&#xa0;AMD 保固失效。</translation>
     </message>
     <message>
         <source>Ryzen Master can only run with Virtualization Based Security (VBS) disabled in the Windows operating system. Please disable VBS and re-start Ryzen Master.</source>
@@ -2818,7 +2818,7 @@
     </message>
     <message>
         <source>Ryzen Master detects some cores are disabled. Core performance indicators will not be available until it is launched in stock core configuration.</source>
-        <translation>Ryzen Master檢測到某些核心被禁用。核心績效指標在以原廠預設值核心設定啟動之前將無法使用。</translation>
+        <translation>Ryzen Master檢測到某些核心被禁用。核心績效指標在以原廠設定值核心設定啟動之前將無法使用。</translation>
     </message>
     <message>
         <source>Virtualization-Based Security (VBS)!</source>
@@ -2962,7 +2962,7 @@
     </message>
     <message>
         <source>Select valid values and apply again</source>
-        <translation>選擇有效值並再次應用</translation>
+        <translation>選擇有效值並再次套用</translation>
     </message>
     <message>
         <source>Second fastest Core of CCX </source>
@@ -2970,11 +2970,11 @@
     </message>
     <message>
         <source>Can NOT apply Profile !</source>
-        <translation>無法應用設定檔！</translation>
+        <translation>無法套用設定檔！</translation>
     </message>
     <message>
         <source>Do you want to apply now?</source>
-        <translation>是否要立即應用？</translation>
+        <translation>是否要立即套用？</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -2986,7 +2986,7 @@
     </message>
     <message>
         <source>Hence it won&apos;t be applied!!</source>
-        <translation>因此其不會被應用！！</translation>
+        <translation>因此其不會被套用！！</translation>
     </message>
     <message>
         <source>Warning !!</source>
@@ -3019,11 +3019,11 @@
     <message>
         <source>NOTE: Memory parameters will be reset to stock. Turn OFF &apos;Reset Memory Parameters&apos; from Settings page to skip resetting the Memory parameters.
 </source>
-        <translation>注意：記憶體參數將重設為原始參數。 從設置頁面關閉“重設記憶體參數”可跳過重設記憶體參數。</translation>
+        <translation>注意：記憶體參數將重設為原始參數。 從設定頁面關閉“重設記憶體參數”可跳過重設記憶體參數。</translation>
     </message>
     <message>
         <source>Nothing to reset!</source>
-        <translation>不需要任何重設置！</translation>
+        <translation>不需要任何重設定！</translation>
     </message>
     <message>
         <source> value not same as that of </source>
@@ -3031,11 +3031,11 @@
     </message>
     <message>
         <source>NOTE: Setting </source>
-        <translation>注意：設置</translation>
+        <translation>注意：設定</translation>
     </message>
     <message>
         <source>Auto Overclocking Control mode does not support Boost Override CPU set to zero</source>
-        <translation>自動超頻控制模式不支援 Boost Override CPU 設置為零</translation>
+        <translation>自動超頻控制模式不支援 Boost Override CPU 設定為零</translation>
     </message>
     <message>
         <source>Windows Preferred Core</source>
@@ -3043,11 +3043,11 @@
     </message>
     <message>
         <source>Can not overclock APU GFX Clock above BIOS limits</source>
-        <translation>無法將 APU GFX 時鐘頻率超過 BIOS 限制頻率</translation>
+        <translation>無法將 APU GFX 時脈頻率超過 BIOS 限制頻率</translation>
     </message>
     <message>
         <source>Last Applied Profile was not a stable profile.</source>
-        <translation>上一次應用的設定檔不是穩定的設定檔。</translation>
+        <translation>上一次套用的設定檔不是穩定的設定檔。</translation>
     </message>
     <message>
         <source>Fastest Core of CCX </source>
@@ -3075,15 +3075,15 @@
     </message>
     <message>
         <source>Consider setting Peak Core(s) Voltage before engaging Manual mode</source>
-        <translation>啟動手動模式之前，請考慮設置峰值核心電壓</translation>
+        <translation>啟動手動模式之前，請考慮設定峰值核心電壓</translation>
     </message>
     <message>
         <source>Auto Overclocking Control mode does not support Boost Override CPU and Boost Override APU GFX set to zero at the same time</source>
-        <translation>自動超頻控制模式不支援 Boost Override CPU 和 Boost Override APU GFX 同時設置為零</translation>
+        <translation>自動超頻控制模式不支援 Boost Override CPU 和 Boost Override APU GFX 同時設定為零</translation>
     </message>
     <message>
         <source>Consider setting core frequency before engaging Manual mode</source>
-        <translation>啟動手動模式之前，請考慮設置核心頻率</translation>
+        <translation>啟動手動模式之前，請考慮設定核心頻率</translation>
     </message>
     <message>
         <source>CPU parameters reset to stock mode.</source>
@@ -3091,15 +3091,15 @@
     </message>
     <message>
         <source>Note: This is as per current core configuration</source>
-        <translation>注意：這是基於當前的核心設定</translation>
+        <translation>注意：這是基於目前的核心設定</translation>
     </message>
     <message>
         <source>To Switch into Manual OC Mode, Both CPU Speed and Peak Core(s) Voltage needs to be applied along with it</source>
-        <translation>要切換到手動 OC 模式，CPU 速度和峰值核心電壓需要與它一起應用</translation>
+        <translation>要切換到手動 OC 模式，CPU 速度和峰值核心電壓需要與它一起套用</translation>
     </message>
     <message>
         <source>Last Applied Profile was not a stable profile !!</source>
-        <translation>最後應用的設定檔不是一個穩定的設定檔！！</translation>
+        <translation>最後套用的設定檔不是一個穩定的設定檔！！</translation>
     </message>
     <message>
         <source>Precision Boost Overdrive Paramater values are same as &apos;Default&apos; Control Mode</source>
@@ -3111,7 +3111,7 @@
     </message>
     <message>
         <source> are set to same value, this will push system into coupled mode.</source>
-        <translation> 設置為相同的值，這會將系統推入耦合模式。</translation>
+        <translation> 設定為相同的值，這會將系統推入耦合模式。</translation>
     </message>
     <message>
         <source>Fastest Core in the System </source>
@@ -3130,7 +3130,7 @@
     </message>
     <message>
         <source>Apply profile</source>
-        <translation>應用設定檔</translation>
+        <translation>套用設定檔</translation>
     </message>
     <message>
         <source>Profile will be saved, but values not applied for operation</source>
@@ -3146,7 +3146,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation>應用</translation>
+        <translation>套用</translation>
     </message>
     <message>
         <source>Reset to default system values, but values not applied for operation</source>
@@ -3159,21 +3159,21 @@
     <message>
         <source>Click on &apos;Cancel&apos; to continue with Ryzen Master Utility.
 </source>
-        <translation>單擊“取消”以繼續&#xa0;Ryzen Master Utility。</translation>
+        <translation>點選“取消”以繼續&#xa0;Ryzen Master Utility。</translation>
     </message>
     <message>
         <source>Please select valid offset values and then apply again.</source>
-        <translation>請選擇有效的偏移值然後重新應用。</translation>
+        <translation>請選擇有效的偏移值然後重新套用。</translation>
     </message>
     <message>
         <source>Click on &apos;Start Over&apos; to clear optimized values available and start optimizing from beginning.
 </source>
-        <translation>單擊“重新開始”以清除最佳化後的值，並從頭開始最佳化。</translation>
+        <translation>點選“重新開始”以清除最佳化後的值，並從頭開始最佳化。</translation>
     </message>
     <message>
         <source>Selected Curve Optimizer mode is not allowed to apply if Cores are parked.
 </source>
-        <translation>如果核心停擺，所選的曲線最佳化器模式不能應用。</translation>
+        <translation>如果核心停擺，所選的曲線最佳化器模式不能套用。</translation>
     </message>
     <message>
         <source>Save Profile</source>
@@ -3182,11 +3182,11 @@
     <message>
         <source>Click &apos;OK&apos; to continue with Ryzen Master Utility.
 </source>
-        <translation>單擊“確定”以繼續Ryzen Master Utility。</translation>
+        <translation>點選“確定”以繼續Ryzen Master Utility。</translation>
     </message>
     <message>
         <source>Copy current system values to profile, but values not applied for operation</source>
-        <translation>將當前系統值複製到設定檔中，但值不會用於操作</translation>
+        <translation>將目前系統值複製到設定檔中，但值不會用於操作</translation>
     </message>
     <message>
         <source>Selected </source>
@@ -3198,11 +3198,11 @@
     </message>
     <message>
         <source>Select valid values and apply again</source>
-        <translation>選擇有效值並再次應用</translation>
+        <translation>選擇有效值並再次套用</translation>
     </message>
     <message>
         <source>Can NOT apply Profile !</source>
-        <translation>無法應用設定檔！</translation>
+        <translation>無法套用設定檔！</translation>
     </message>
     <message>
         <source> Validate Offset: </source>
@@ -3210,7 +3210,7 @@
     </message>
     <message>
         <source>Do you want to apply now?</source>
-        <translation>是否要立即應用？</translation>
+        <translation>是否要立即套用？</translation>
     </message>
     <message>
         <source>Below are the Curve Optimizer Values that has been optimized 
@@ -3219,17 +3219,17 @@
     </message>
     <message>
         <source> Copy From Current System Status: </source>
-        <translation>從當前系統狀態複製：</translation>
+        <translation>從目前系統狀態複製：</translation>
     </message>
     <message>
         <source>Please optimize the values by clicking on ‘Start Optimizing’ button and then apply again.</source>
-        <translation>請單擊“開始最佳化”按鈕最佳化這些值，然後重新應用。</translation>
+        <translation>請點選“開始最佳化”按鈕最佳化這些值，然後重新套用。</translation>
     </message>
     <message>
         <source>Optimizing the Curve Optimizer values may result in multiple system restarts, please save your work, and close all applications before proceeding.
 
 </source>
-        <translation>對曲線最佳化器的值進行最佳化可能導致多次系統重啟，請保存您的工作，並在繼續前關閉所有應用。</translation>
+        <translation>對曲線最佳化器的值進行最佳化可能導致多次系統重啟，請保存您的工作，並在繼續前關閉所有套用。</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -3242,7 +3242,7 @@
     <message>
         <source>The Selected Curve Optimizer Control will reset offset values applied through BIOS 
 </source>
-        <translation>所選的控制模式將重設通過基本輸入/輸出系統 (BIOS)&#xa0;應用的偏移值</translation>
+        <translation>所選的控制模式將重設通過基本輸入/輸出系統 (BIOS)&#xa0;套用的偏移值</translation>
     </message>
     <message>
         <source> Save: </source>
@@ -3255,7 +3255,7 @@
     <message>
         <source>Optimizing the Curve Optimizer values may result in multiple system restarts, please save your work, and close all applications before proceeding.
 </source>
-        <translation>對曲線最佳化器的值進行最佳化可能導致多次系統重啟，請保存您的工作，並在繼續前關閉所有應用。</translation>
+        <translation>對曲線最佳化器的值進行最佳化可能導致多次系統重啟，請保存您的工作，並在繼續前關閉所有套用。</translation>
     </message>
     <message>
         <source>Optimizing the system for best performance
@@ -3266,7 +3266,7 @@
     <message>
         <source>Selected Curve Optimizer mode is not allowed to apply if Memory Access Mode is enabled.
 </source>
-        <translation>如果記憶體訪問模式已開啟，所選的曲線最佳化器模式不能應用。</translation>
+        <translation>如果記憶體訪問模式已開啟，所選的曲線最佳化器模式不能套用。</translation>
     </message>
     <message>
         <source>Curve Optimizer Method : </source>
@@ -3274,37 +3274,37 @@
     </message>
     <message>
         <source>Please disable LCM and then apply again.</source>
-        <translation>請禁用 LCM，然後重新應用。</translation>
+        <translation>請禁用 LCM，然後重新套用。</translation>
     </message>
     <message>
         <source> (Note: Applying this offset will reset Curve Optimizer Method to Off)</source>
-        <translation>(注意：應用此偏移值會將曲線最佳化方法重設為關閉)</translation>
+        <translation>(注意：套用此偏移值會將曲線最佳化方法重設為關閉)</translation>
     </message>
     <message>
         <source>Please enable all cores and then apply again.</source>
-        <translation>請啟用全部核心，然後重新應用。</translation>
+        <translation>請啟用全部核心，然後重新套用。</translation>
     </message>
     <message>
         <source>Selected Curve Optimizer mode is not allowed to apply if LCM is enabled.
 </source>
-        <translation>如果 LCM 已啟用，所選的曲線最佳化器模式不能應用。</translation>
+        <translation>如果 LCM 已啟用，所選的曲線最佳化器模式不能套用。</translation>
     </message>
     <message>
         <source>Auto Overclocking Control mode does not support Boost Override CPU set to zero</source>
-        <translation>自動超頻控制模式不支援 Boost Override CPU 設置為零</translation>
+        <translation>自動超頻控制模式不支援 Boost Override CPU 設定為零</translation>
     </message>
     <message>
         <source> Apply: </source>
-        <translation>應用： </translation>
+        <translation>套用： </translation>
     </message>
     <message>
         <source>Selected Curve Optimizer mode is not allowed to apply if CCD&apos;s are disabled.
 </source>
-        <translation>如果 CCD 被禁用，所選的曲線最佳化器模式不能應用。</translation>
+        <translation>如果 CCD 被禁用，所選的曲線最佳化器模式不能套用。</translation>
     </message>
     <message>
         <source>Please enable all CCD&apos;s and then apply again.</source>
-        <translation>請啟用所有的&#xa0;CCD 然後重新應用。</translation>
+        <translation>請啟用所有的&#xa0;CCD 然後重新套用。</translation>
     </message>
     <message>
         <source>Interrupted</source>
@@ -3345,11 +3345,11 @@
     </message>
     <message>
         <source>Auto Overclocking Control mode does not support Boost Override CPU and Boost Override APU GFX set to zero at the same time</source>
-        <translation>自動超頻控制模式不支援 Boost Override CPU 和 Boost Override APU GFX 同時設置為零</translation>
+        <translation>自動超頻控制模式不支援 Boost Override CPU 和 Boost Override APU GFX 同時設定為零</translation>
     </message>
     <message>
         <source>The PBO is not supported for this OPN or PCD values cannot be set from BIOS!!! </source>
-        <translation>該 OPN 不支援&#xa0;PBO，或者 PCD 的值不能通過基本輸入/輸出系統 (BIOS)&#xa0;設置！！！</translation>
+        <translation>該 OPN 不支援&#xa0;PBO，或者 PCD 的值不能通過基本輸入/輸出系統 (BIOS)&#xa0;設定！！！</translation>
     </message>
     <message>
         <source>Do you want to proceed now?</source>
@@ -3368,7 +3368,7 @@
     <message>
         <source>The offset values being applied will reset the current offset values through BIOS 
 </source>
-        <translation>即將應用的偏移值將會通過基本輸入/輸出系統 (BIOS) 重設當前偏移值</translation>
+        <translation>即將套用的偏移值將會通過基本輸入/輸出系統 (BIOS) 重設目前偏移值</translation>
     </message>
     <message>
         <source>Precision Boost Overdrive Paramater values are same as &apos;Default&apos; Control Mode</source>
@@ -3376,12 +3376,12 @@
     </message>
     <message>
         <source>These values can be applied through &apos;Curve Optimizer&apos; profile.</source>
-        <translation>這些值可以透過“曲線最佳化器”設定檔來應用。</translation>
+        <translation>這些值可以透過“曲線最佳化器”設定檔來套用。</translation>
     </message>
     <message>
         <source>Click on &apos;Resume&apos; to resume the optimizing process from where it was interuppted.
 </source>
-        <translation>單擊“繼續”從被中斷位置繼續。</translation>
+        <translation>點選“繼續”從被中斷位置繼續。</translation>
     </message>
     <message>
         <source>Discard Profile</source>
@@ -3389,7 +3389,7 @@
     </message>
     <message>
         <source>Nothing To Apply</source>
-        <translation>無可應用設定</translation>
+        <translation>無可套用設定</translation>
     </message>
     <message>
         <source>Curve Optimizer Method: </source>
@@ -3397,11 +3397,11 @@
     </message>
     <message>
         <source>Copy Current</source>
-        <translation>複製當前</translation>
+        <translation>複製目前</translation>
     </message>
     <message>
         <source> are set to same value, this will push system into coupled mode.</source>
-        <translation> 設置為相同的值，這會將系統推入耦合模式。</translation>
+        <translation> 設定為相同的值，這會將系統推入耦合模式。</translation>
     </message>
     <message>
         <source>Reset Profile</source>
@@ -3409,14 +3409,14 @@
     </message>
     <message>
         <source>Please disable Memory Access Mode and then apply again.</source>
-        <translation>請禁用記憶體訪問模式然後重新應用。</translation>
+        <translation>請禁用記憶體訪問模式然後重新套用。</translation>
     </message>
 </context>
 <context>
     <name>ProfilesPage</name>
     <message>
         <source>Apply profile</source>
-        <translation>應用設定檔</translation>
+        <translation>套用設定檔</translation>
     </message>
     <message>
         <source>Profile will be saved, but values not applied for operation</source>
@@ -3424,7 +3424,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation>應用</translation>
+        <translation>套用</translation>
     </message>
     <message>
         <source>Reset to default system values, but values not applied for operation</source>
@@ -3436,11 +3436,11 @@
     </message>
     <message>
         <source>Copy current system values to profile, but values not applied for operation</source>
-        <translation>將當前系統值複製到設定檔中，但值不會用於操作</translation>
+        <translation>將目前系統值複製到設定檔中，但值不會用於操作</translation>
     </message>
     <message>
         <source> Copy From Current System Status: </source>
-        <translation> 從當前系統狀態複製： </translation>
+        <translation> 從目前系統狀態複製： </translation>
     </message>
     <message>
         <source>Failed</source>
@@ -3460,7 +3460,7 @@
     </message>
     <message>
         <source> Apply: </source>
-        <translation> 應用： </translation>
+        <translation> 套用： </translation>
     </message>
     <message>
         <source>Interrupted</source>
@@ -3484,11 +3484,11 @@
     </message>
     <message>
         <source>Last Applied Profile: </source>
-        <translation>上一次應用的設定檔： </translation>
+        <translation>上一次套用的設定檔： </translation>
     </message>
     <message>
         <source>Apply profile and Run Stress Test</source>
-        <translation>應用設定檔並運作壓力測試</translation>
+        <translation>套用設定檔並運作壓力測試</translation>
     </message>
     <message>
         <source>Discard Profile</source>
@@ -3496,7 +3496,7 @@
     </message>
     <message>
         <source>Copy Current</source>
-        <translation>複製當前</translation>
+        <translation>複製目前</translation>
     </message>
     <message>
         <source>Reset Profile</source>
@@ -3613,7 +3613,7 @@
     </message>
     <message>
         <source>Auto Mode applies a value calculated by the system BIOS.  Manual Mode applies the value displayed</source>
-        <translation>自動模式應用由系統 BIOS 計算出的值。手動模式應用顯示的值</translation>
+        <translation>自動模式套用由系統 BIOS 計算出的值。手動模式套用顯示的值</translation>
     </message>
     <message>
         <source>Note: This control is part of EXPO Profile, any changes to it will modify EXPO Profile</source>
@@ -3640,7 +3640,7 @@
     </message>
     <message>
         <source>AMD Ryzen and Ryzen Threadripper processors are designed to function to high levels of performance with power efficiency and stability.  AMD Ryzen Master is an application to monitor and configure an AMD Ryzen or Ryzen Threadripper processor to potentially higher performance but at the risk of stability and power efficiency.  Major control features allow changes to CPU core performance and configuration, integrated graphics and memory control parameters to change processor and system performance.  The user should change parameters only with caution and in small increments and be prepared for cases of system instability and failure.  Please review AMD documentation on the installation, features and use of Ryzen Master before changing parameters.</source>
-        <translation>AMD Ryzen和Ryzen Threadripper 處理器專為提供高性能而設計，且節能省電、穩定性強。  AMD Ryzen Master 是一款用於監控和設定 AMD Ryzen或Ryzen Threadripper 處理器的應用程式，以提供潛在的更高性能，但會犧牲穩定性和功率效率。  主要控制功能允許更改 CPU 核心性能和設定、集成顯示卡和儲存器控制參數，以改變處理器和系統性能。  用戶在更改參數時應務必格外謹慎，並以很小的增量進行更改，並做好系統出現不穩定和故障的準備。  更改參數前，請參閱與 AMD 安裝、特性和 Ryzen Master 使用相關的文件。</translation>
+        <translation>AMD Ryzen和Ryzen Threadripper 處理器專為提供高性能而設計，且節能省電、穩定性強。  AMD Ryzen Master 是一款用於監控和設定 AMD Ryzen或Ryzen Threadripper 處理器的套用程式，以提供潛在的更高性能，但會犧牲穩定性和功率效率。  主要控制功能允許更改 CPU 核心性能和設定、集成顯示卡和儲存器控制參數，以改變處理器和系統性能。  用戶在更改參數時應務必格外謹慎，並以很小的增量進行更改，並做好系統出現不穩定和故障的準備。  更改參數前，請參閱與 AMD 安裝、特性和 Ryzen Master 使用相關的文件。</translation>
     </message>
     <message>
         <source>CPU Architecture:</source>
@@ -3767,7 +3767,7 @@
     </message>
     <message>
         <source>Import/Export</source>
-        <translation>導入/導出</translation>
+        <translation>匯入/匯出</translation>
     </message>
     <message>
         <source>Edit profile name</source>
@@ -3775,7 +3775,7 @@
     </message>
     <message>
         <source>Switch to the Basic view for a simple monitoring and control of overclock settings</source>
-        <translation>切換到基本視圖，以便簡單地監視和控制超頻設置</translation>
+        <translation>切換到基本檢視，以便簡單地監視和控制超頻設定</translation>
     </message>
     <message>
         <source>(Note: Use F2 for going into editing mode via keyboard)</source>
@@ -3787,15 +3787,15 @@
     </message>
     <message>
         <source>Import profile from or export profile to file</source>
-        <translation>從文件導入設定檔或將設定檔導出至文件</translation>
+        <translation>從文件匯入設定檔或將設定檔匯出至文件</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>設置</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>Basic View</source>
-        <translation>基本視圖</translation>
+        <translation>基本檢視</translation>
     </message>
     <message>
         <source>Reset CPU Parameters</source>
@@ -3833,7 +3833,7 @@
     <name>SettingsData</name>
     <message>
         <source>Memory Clock Unit</source>
-        <translation>​記憶體時鐘單元</translation>
+        <translation>​記憶體時脈單元</translation>
     </message>
     <message>
         <source>Don&apos;t show warning message</source>
@@ -3912,7 +3912,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation>應用</translation>
+        <translation>套用</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -3920,17 +3920,17 @@
     </message>
     <message>
         <source>The Selected Control Mode will reset offset values applied through BIOS </source>
-        <translation>所選的控制模式將重設通過基本輸入/輸出系統 (BIOS)&#xa0;應用的偏移值</translation>
+        <translation>所選的控制模式將重設通過基本輸入/輸出系統 (BIOS)&#xa0;套用的偏移值</translation>
     </message>
     <message>
         <source>Click on &apos;Cancel&apos; to continue with Ryzen Master Utility.
 </source>
-        <translation>單擊“取消”以繼續&#xa0;Ryzen Master Utility。</translation>
+        <translation>點選“取消”以繼續&#xa0;Ryzen Master Utility。</translation>
     </message>
     <message>
         <source>Click on &apos;Start Over&apos; to clear optimized values available and start optimizing from beginning.
 </source>
-        <translation>單擊“重新開始”以清除最佳化後的值，並從頭開始最佳化。</translation>
+        <translation>點選“重新開始”以清除最佳化後的值，並從頭開始最佳化。</translation>
     </message>
     <message>
         <source>LN2 mode must be enabled to apply higher voltages</source>
@@ -3939,12 +3939,12 @@
     <message>
         <source>Selected Curve Optimizer mode is not allowed to apply if Cores are parked.
 </source>
-        <translation>如果核心停擺，所選的曲線最佳化器模式不能應用。</translation>
+        <translation>如果核心停擺，所選的曲線最佳化器模式不能套用。</translation>
     </message>
     <message>
         <source>Click &apos;OK&apos; to continue with Ryzen Master Utility.
 </source>
-        <translation>單擊“確定”以繼續&#xa0;Ryzen Master Utility。</translation>
+        <translation>點選“確定”以繼續&#xa0;Ryzen Master Utility。</translation>
     </message>
     <message>
         <source>Apply &amp; Test: </source>
@@ -3956,30 +3956,30 @@
     </message>
     <message>
         <source>Select valid values and apply again</source>
-        <translation>選擇有效值並再次應用</translation>
+        <translation>選擇有效值並再次套用</translation>
     </message>
     <message>
         <source>These values can be applied through Curve Optimizer profile. Click &apos;OK&apos; to continue with Ryzen Master Utility 
 </source>
-        <translation>這些值可以透過“曲線最佳化器”設定檔來應用。 單擊“確定”以繼續&#xa0;Ryzen Master Utility。</translation>
+        <translation>這些值可以透過“曲線最佳化器”設定檔來套用。 點選“確定”以繼續&#xa0;Ryzen Master Utility。</translation>
     </message>
     <message>
         <source>Can NOT apply Profile !</source>
-        <translation>無法應用設定檔！</translation>
+        <translation>無法套用設定檔！</translation>
     </message>
     <message>
         <source>Do you want to apply now?</source>
-        <translation>是否要立即應用？</translation>
+        <translation>是否要立即套用？</translation>
     </message>
     <message>
         <source>Please optimize the values by clicking on ‘Start Optimizing’ button and then apply again.</source>
-        <translation>請單擊“開始最佳化”按鈕最佳化這些值，然後重新應用。</translation>
+        <translation>請點選“開始最佳化”按鈕最佳化這些數值，然後重新套用。</translation>
     </message>
     <message>
         <source>Optimizing the Curve Optimizer values may result in multiple system restarts, please save your work, and close all applications before proceeding.
 
 </source>
-        <translation>對曲線最佳化器的值進行最佳化可能導致多次系統重啟，請保存您的工作，並在繼續前關閉所有應用。</translation>
+        <translation>對曲線最佳化器的值進行最佳化可能導致多次系統重啟，請保存您的工作，並在繼續前關閉所有套用。</translation>
     </message>
     <message>
         <source>Failed</source>
@@ -3991,7 +3991,7 @@
     </message>
     <message>
         <source>Hence it won&apos;t be applied!!</source>
-        <translation>因此其不會被應用！！</translation>
+        <translation>因此其不會被套用！！</translation>
     </message>
     <message>
         <source>Warning !!</source>
@@ -3999,7 +3999,7 @@
     </message>
     <message>
         <source>Apply the changes made and run a stress test to check system stability</source>
-        <translation>應用所做的更改並運作壓力測試以檢查系統穩定性</translation>
+        <translation>套用所做的更改並運作壓力測試以檢查系統穩定性</translation>
     </message>
     <message>
         <source>Don&apos;t show this warning again</source>
@@ -4027,12 +4027,12 @@
     </message>
     <message>
         <source>Reset processor configuration to the default values. Press &quot;Apply&quot; to use these values</source>
-        <translation>將處理器設定恢復為預設值。按“應用”以使用這些值</translation>
+        <translation>將處理器設定恢復為預設值。按“套用”以使用這些值</translation>
     </message>
     <message>
         <source>Selected Curve Optimizer mode is not allowed to apply if Memory Access Mode is enabled.
 </source>
-        <translation>如果記憶體訪問模式已開啟，所選的曲線最佳化器模式不能應用。</translation>
+        <translation>如果記憶體訪問模式已開啟，所選的曲線最佳化器模式不能套用。</translation>
     </message>
     <message>
         <source>Curve Optimizer Method : </source>
@@ -4040,33 +4040,33 @@
     </message>
     <message>
         <source>Please disable LCM and then apply again.</source>
-        <translation>請禁用 LCM，然後重新應用。</translation>
+        <translation>請禁用 LCM，然後重新套用。</translation>
     </message>
     <message>
         <source>Switch to the advanced view for detailed monitoring and expanded control of overclock settings</source>
-        <translation>切換到高級視圖，以便詳細地監視和擴展控制超頻設置</translation>
+        <translation>切換到高級檢視，以便詳細地監視和擴展控制超頻設定</translation>
     </message>
     <message>
         <source>Please enable all cores and then apply again.</source>
-        <translation>請啟用全部核心，然後重新應用。</translation>
+        <translation>請啟用全部核心，然後重新套用。</translation>
     </message>
     <message>
         <source>Selected Curve Optimizer mode is not allowed to apply if LCM is enabled.
 </source>
-        <translation>如果 LCM 已啟用，所選的曲線最佳化器模式不能應用。</translation>
+        <translation>如果 LCM 已啟用，所選的曲線最佳化器模式不能套用。</translation>
     </message>
     <message>
         <source>Apply: </source>
-        <translation>應用: </translation>
+        <translation>套用: </translation>
     </message>
     <message>
         <source>CURRENT</source>
-        <translation>當前</translation>
+        <translation>目前</translation>
     </message>
     <message>
         <source>Optimizing the Curve Optimizer values will result in multiple system restarts, please save your work, and close all applications before proceeding.
 </source>
-        <translation>對曲線最佳化器的值進行最佳化可能導致多次系統重啟，請保存您的工作，並在繼續前關閉所有應用。</translation>
+        <translation>對曲線最佳化器的值進行最佳化可能導致多次系統重啟，請保存您的工作，並在繼續前關閉所有程式。</translation>
     </message>
     <message>
         <source>Reset: </source>
@@ -4075,23 +4075,23 @@
     <message>
         <source>Selected Curve Optimizer mode is not allowed to apply if CCD&apos;s are disabled.
 </source>
-        <translation>如果 CCD 被禁用，所選的曲線最佳化器模式不能應用。</translation>
+        <translation>如果 CCD 被禁用，所選的曲線最佳化器模式不能套用。</translation>
     </message>
     <message>
         <source>Can not overclock APU GFX Clock above BIOS limits</source>
-        <translation>無法將 APU GFX 時鐘頻率超過 BIOS 限制頻率</translation>
+        <translation>無法將 APU GFX 時脈頻率超過 BIOS 限制頻率</translation>
     </message>
     <message>
         <source>Last Applied Profile was not a stable profile.</source>
-        <translation>上一次應用的設定檔不是穩定的設定檔。</translation>
+        <translation>上一次套用的設定檔不是穩定的設定檔。</translation>
     </message>
     <message>
         <source>Apply the changes made</source>
-        <translation>應用所做的更改</translation>
+        <translation>套用所做的更改</translation>
     </message>
     <message>
         <source>Please enable all CCD&apos;s and then apply again.</source>
-        <translation>請啟用所有的&#xa0;CCD 然後重新應用。</translation>
+        <translation>請啟用所有的&#xa0;CCD 然後重新套用。</translation>
     </message>
     <message>
         <source>Interrupted</source>
@@ -4114,11 +4114,11 @@
         <source>Optimizing the Curve Optimizer values will result in multiple system restarts, please save your work, and close all applications before proceeding.
 
 </source>
-        <translation>對曲線最佳化器的值進行最佳化可能導致多次系統重啟，請保存您的工作，並在繼續前關閉所有應用。</translation>
+        <translation>對曲線最佳化器的值進行最佳化可能導致多次系統重啟，請保存您的工作，並在繼續前關閉所有套用。</translation>
     </message>
     <message>
         <source> (All other memory parameters of the EXPO profile will be applied along with Memory Clock and CAS Latency.)</source>
-        <translation> （EXPO 設定檔的所有其他記憶體參數將與記憶體時鐘頻率和 CAS 延遲一起應用。）</translation>
+        <translation> （EXPO 設定檔的所有其他記憶體參數將與記憶體時脈頻率和 CAS 延遲一起套用。）</translation>
     </message>
     <message>
         <source>System should be in other than Manual control mode to Start Optimizing!!! </source>
@@ -4126,15 +4126,15 @@
     </message>
     <message>
         <source>Set your application preferences</source>
-        <translation>設置應用程式首選項</translation>
+        <translation>設定套用程式首選項</translation>
     </message>
     <message>
         <source>Consider setting Peak Core(s) Voltage before engaging Manual mode</source>
-        <translation>啟動手動模式之前，請考慮設置峰值核心電壓</translation>
+        <translation>啟動手動模式之前，請考慮設定峰值核心電壓</translation>
     </message>
     <message>
         <source>Consider setting core frequency before engaging Manual mode</source>
-        <translation>啟動手動模式之前，請考慮設置核心頻率</translation>
+        <translation>啟動手動模式之前，請考慮設定核心頻率</translation>
     </message>
     <message>
         <source>Curve Optimizer Values has been optimized 
@@ -4143,7 +4143,7 @@
     </message>
     <message>
         <source>The PBO is not supported for this OPN or PCD values cannot be set from BIOS!!! </source>
-        <translation>該 OPN 不支援&#xa0;PBO，或者 PCD 的值不能通過基本輸入/輸出系統 (BIOS)&#xa0;設置！！！</translation>
+        <translation>該 OPN 不支援&#xa0;PBO，或者 PCD 的值不能通過基本輸入/輸出系統 (BIOS)&#xa0;設定！！！</translation>
     </message>
     <message>
         <source>Do you want to proceed now?</source>
@@ -4151,11 +4151,11 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation>設置</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <source>To Switch into Manual OC Mode, Both CPU Speed and Peak Core(s) Voltage needs to be applied along with it</source>
-        <translation>要切換到手動 OC 模式，CPU 速度和峰值核心電壓需要與它一起應用</translation>
+        <translation>要切換到手動 OC 模式，CPU 速度和峰值核心電壓需要與它一起套用</translation>
     </message>
     <message>
         <source>Selected Curve Optimizer mode has not been optimized.
@@ -4164,24 +4164,24 @@
     </message>
     <message>
         <source>Advanced View</source>
-        <translation>高級視圖</translation>
+        <translation>高級檢視</translation>
     </message>
     <message>
         <source>Last Applied Profile was not a stable profile !!</source>
-        <translation>最後應用的設定檔不是一個穩定的設定檔！！</translation>
+        <translation>最後套用的設定檔不是一個穩定的設定檔！！</translation>
     </message>
     <message>
         <source>These values can be applied through &apos;Curve Optimizer&apos; profile.</source>
-        <translation>這些值可以透過“曲線最佳化器”設定檔來應用。</translation>
+        <translation>這些值可以透過“曲線最佳化器”設定檔來套用。</translation>
     </message>
     <message>
         <source>Click on &apos;Resume&apos; to resume the optimizing process from where it was interuppted.
 </source>
-        <translation>單擊“繼續”從被中斷位置繼續。</translation>
+        <translation>點選“繼續”從被中斷位置繼續。</translation>
     </message>
     <message>
         <source>Please disable Memory Access Mode and then apply again.</source>
-        <translation>請禁用記憶體訪問模式然後重新應用。</translation>
+        <translation>請禁用記憶體訪問模式然後重新套用。</translation>
     </message>
     <message>
         <source>CURVE OPTIMIZER</source>
@@ -4251,7 +4251,7 @@
     <message>
         <source>Click &apos;Cancel&apos; to proceed to Ryzen Master Utility 
 </source>
-        <translation>單擊“取消”以轉至&#xa0;Ryzen Master Utility</translation>
+        <translation>點選“取消”以轉至&#xa0;Ryzen Master Utility</translation>
     </message>
     <message>
         <source>CO Core </source>
@@ -4259,7 +4259,7 @@
     </message>
     <message>
         <source>Difference offset value adjusts the derived offset value before Apply.</source>
-        <translation>偏移值差值在應用前調整導出的偏移值。</translation>
+        <translation>偏移值差值在套用前調整匯出的偏移值。</translation>
     </message>
     <message>
         <source> Value</source>
@@ -4287,7 +4287,7 @@
     </message>
     <message>
         <source>Click &apos;OK&apos; to apply &amp; test Offset values.</source>
-        <translation>單擊“確定”以應用並測試偏移值。</translation>
+        <translation>點選“確定”以套用並測試偏移值。</translation>
     </message>
     <message>
         <source>Validate Offset</source>
@@ -4295,7 +4295,7 @@
     </message>
     <message>
         <source>Apply CO manual offset values and stress test</source>
-        <translation>應用 CO 手動偏移值並壓力測試</translation>
+        <translation>套用 CO 手動偏移值並壓力測試</translation>
     </message>
     <message>
         <source>Invalid Offset value !</source>
@@ -4303,7 +4303,7 @@
     </message>
     <message>
         <source> For example, if derived values is -25 and difference offset value is 5 then RM applies -20 as the offset value.</source>
-        <translation>例如，如果導出的值是 -25，偏移值差值是 5，那麼 RM 會應用 -20 作為偏移值。</translation>
+        <translation>例如，如果匯出的值是 -25，偏移值差值是 5，那麼 RM 會套用 -20 作為偏移值。</translation>
     </message>
     <message>
         <source>System should be in other than Manual control mode to Validate Offset value !!! </source>
@@ -4312,7 +4312,7 @@
     <message>
         <source>Below are the Curve Optimizer Values that will be applied
 </source>
-        <translation>以下是即將應用的曲線最佳化器值</translation>
+        <translation>以下是即將套用的曲線最佳化器值</translation>
     </message>
     <message>
         <source>Please select valid offset values and try again.</source>
@@ -4381,7 +4381,7 @@
     </message>
     <message>
         <source>Press &quot;Apply&quot; to use your values</source>
-        <translation>按“應用”以使用您的值</translation>
+        <translation>按“套用”以使用您的值</translation>
     </message>
 </context>
 <context>
@@ -4410,7 +4410,7 @@
     <name>NvcCurveOptimizerDerivingPage</name>
     <message>
         <source>Click to Stop optimizing the values</source>
-        <translation>單擊以停止參數最佳化</translation>
+        <translation>點選以停止參數最佳化</translation>
     </message>
     <message>
         <source>Optimizing the system for best performance, this will take time and may need multiple system restart, please wait...
@@ -4447,7 +4447,7 @@
     </message>
     <message>
         <source>Import</source>
-        <translation>導入</translation>
+        <translation>匯入</translation>
     </message>
     <message>
         <source>EXPO Profile 1</source>
